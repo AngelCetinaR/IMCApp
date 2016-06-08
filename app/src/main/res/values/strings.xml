@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IMCApp</string>
+    <string name="texto_indicador_peso"> Proporcione el peso en kilogramos: </string>
+    <string name="texto_indicador_estatura"> Proporcione la estatura en metros: </string>
+    <string name="texto_boton_calclular"> Calcular </string>
+    <string name="texto_mensaje_imc">El IMC es: </string>
+    <string name="texto_boton_limpiar"> Limpiar </string>
+    <string name="texto_indicador_estado"> Su estado nutricional es: </string>
+    <string name="texto_indicador_nutricional"></string>
+
+</resources>
